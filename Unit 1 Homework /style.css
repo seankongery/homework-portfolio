@@ -1,0 +1,88 @@
+
+
+header {
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	background: url("http://bil-der.com/media/2016/12/Violet-Lemay-Illustration-Doodle-New-York-Skyline.jpg");
+	overflow: hidden;
+	background-attachment: fixed;
+	text-decoration: none;
+}
+
+header img {
+	margin: 0px 0px 25px 0px;
+	border-style: solid;
+	border-color: black;
+	border-width: 4px;
+
+}
+
+body {
+	text-align: center;
+}
+
+ul {
+	padding: 20px;
+}
+
+li {
+	display: block;
+	padding: 0px 10px 0px 10px;
+}
+
+
+article {
+    max-width: 700px;
+    padding: 10px;
+    margin: 0 auto;
+    }
+
+ p {
+ 	max-width: 700px;
+    padding: 0px;
+    margin: 0 auto;
+ }
+
+ #experience {
+ 	margin-top: 45px;
+ }
+
+ #PMadventure {
+ 	margin-top: 45px;
+ }
+
+ h3 {
+ 	max-width: 700px;
+    margin: 0 auto;
+    padding: 45px 0px 0px 0px;
+ }
+
+ #menu li {
+	display: inline;
+	padding: 5px;
+ }
+
+ li a {
+ 	font-size: 20px;
+ 	color: black;
+ }
+
+
+#skills li {
+	font-weight: bold;
+}
+
+#jobs li {
+	font-weight: bold;
+}
+
+footer {
+	background: black;
+	height: 50px;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	margin-top: 50px;
+}
